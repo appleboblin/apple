@@ -3,11 +3,11 @@
 
 Group maker requires text files of students, one student per line in the "Class" folder.<br/>
 
-##Additional functions:
+## Additional functions:
 - [x] Edit class list
 - [x] Save generated group list
 
-##Future ideas/functions:
+## Future ideas/functions:
 - [ ] Object Oriented
 - [ ] Create class lsit
 - [ ] Better gui. With Notebook
